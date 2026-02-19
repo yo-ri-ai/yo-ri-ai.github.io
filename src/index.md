@@ -3,7 +3,7 @@ layout: base.njk
 title: よりあいプロジェクト
 ---
 
-# よりあい（寄り合い）プロジェクト
+# Shonan YoriAI プロジェクト
 
 ## プロジェクトコンセプト
 
