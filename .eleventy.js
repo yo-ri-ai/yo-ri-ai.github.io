@@ -1,5 +1,5 @@
 module.exports = function(eleventyConfig) {
-  // README.mdをindex.mdとしてコピー
+  // README.mdをサイト成果物にコピー
   eleventyConfig.addPassthroughCopy("README.md");
   
   // CSSファイルをコピー
