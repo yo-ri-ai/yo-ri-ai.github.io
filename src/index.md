@@ -4,7 +4,7 @@ title: YORIAI
 ---
 
 <figure class="key-visual">
-  <img src="/images/key-visual-v2.png" alt="烏帽子岩が見える湘南の海辺に、サーフボードとサザンビーチのモニュメントがあるイラスト">
+  <img src="/images/key-visual-v2.webp" alt="烏帽子岩が見える湘南の海辺に、サーフボードとサザンビーチのモニュメントがあるイラスト">
 </figure>
 
 # 寄り添い合うAI活用の練習場所
