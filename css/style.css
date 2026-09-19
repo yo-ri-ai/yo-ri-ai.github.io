@@ -18,6 +18,17 @@ main {
   padding: 2rem;
 }
 
+.key-visual {
+  margin: 0 0 2rem;
+}
+
+.key-visual img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
 footer {
   max-width: 900px;
   margin: 2rem auto;

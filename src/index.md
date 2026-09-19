@@ -3,6 +3,10 @@ layout: base.njk
 title: YORIAI
 ---
 
+<figure class="key-visual">
+  <img src="/images/key-visual.png" alt="海の近くの明るい空間で、地域の人たちがAI活用について学び合う様子">
+</figure>
+
 # 寄り添い合うAI活用の練習場所
 
 神奈川県の湘南海岸、海の近くにある、小さな練習場です。
