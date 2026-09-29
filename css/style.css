@@ -12,6 +12,12 @@ header {
   }
 }
 
+.site-notice {
+  margin: 0.15rem 0 0;
+  color: #7f8c8d;
+  font-size: 0.7rem;
+}
+
 main {
   max-width: 900px;
   margin: 2rem auto;
