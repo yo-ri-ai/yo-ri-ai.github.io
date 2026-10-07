@@ -10,6 +10,9 @@ header {
     margin: 0 auto;
     max-width: 900px;
   }
+  h1 a {
+    text-decoration: none;
+  }
 }
 
 .site-notice {
