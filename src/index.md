@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: YORIAI CAFE
+title: ☕ YORIAI CAFE
 ---
 
 <figure class="key-visual">
