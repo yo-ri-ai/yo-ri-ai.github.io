@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: ☕ YORIAI CAFE
+description: 神奈川県の湘南海岸、海の近くにある、バーチャル上にある小さなIT技術の練習場。地元の人がゆっくり学べる場所を目指しています
 ---
 
 <figure class="key-visual">
